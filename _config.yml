@@ -39,8 +39,8 @@ author:
   orcid            : "https://orcid.org/0000-0002-4877-2582"
   LinkedIn         : #"https://www.linkedin.com/in/julian-jonathan-markus/" 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Julian-Markus-3?ev=hdr_xprf"
+  WU PURE          : "https://research.wu.ac.at/en/persons/jj-julian-jonathan-markus"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/julian-jonathan-markus/" 
+  linkedin         : "julian jonathan markus" 
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
