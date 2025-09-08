@@ -15,9 +15,6 @@ Or open directly:
 [Download CV (PDF)]({{ '/files/2025-09-08_Julian_Jonathan_Markus_CV.pdf' | relative_url }})
 
 
-You can download my CV here: [Download CV (PDF)](/files/2025-09-08_Julian_Jonathan_Markus_CV.pdf)
-
-
 
 
 
