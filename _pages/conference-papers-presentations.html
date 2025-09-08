@@ -1,0 +1,30 @@
+---
+layout: archive
+title: "Conference Papers and Presentations"
+permalink: /conference-papers-presentations/
+author_profile: true
+---
+{% include base_path %}
+
+<h2>Conference Papers (from Publications)</h2>
+<p><em>Add <code>category: conferences</code> to relevant files in <code>_publications/</code>.</em></p>
+{% assign conf_pubs = site.publications | where: "category", "conferences" %}
+{% if conf_pubs and conf_pubs.size > 0 %}
+  {% for post in conf_pubs reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+<p><em>No conference papers listed yet.</em></p>
+{% endif %}
+
+<hr/>
+
+<h2>Presentations (Talks)</h2>
+<p><em>Items from <code>_talks/</code> appear below.</em></p>
+{% if site.talks and site.talks.size > 0 %}
+  {% for talk in site.talks reversed %}
+    {% include archive-single.html post=talk %}
+  {% endfor %}
+{% else %}
+<p><em>No talks added yet.</em></p>
+{% endif %}
