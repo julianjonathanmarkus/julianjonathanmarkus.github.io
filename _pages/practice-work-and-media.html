@@ -1,0 +1,25 @@
+---
+layout: archive
+title: "Practice Work & Media Coverage"
+permalink: /practice-work-and-media/
+author_profile: true
+---
+{% include base_path %}
+
+<h2>Practice Work (Projects / Collaborations)</h2>
+<p><em>Consider using the built-in <code>_portfolio/</code> collection.</em></p>
+{% if site.portfolio and site.portfolio.size > 0 %}
+  {% for item in site.portfolio reversed %}
+    {% include archive-single.html post=item %}
+  {% endfor %}
+{% else %}
+<p><em>No portfolio items yet. Add Markdown files to <code>_portfolio/</code>.</em></p>
+{% endif %}
+
+<hr/>
+
+<h2>Media Coverage</h2>
+<ul>
+  <li><em>Outlet</em> (Year). “Title.” <a href="https://example.com" target="_blank" rel="noopener">Link</a></li>
+  <li><em>Podcast / Webinar</em> (Year). “Title.” <a href="https://example.com" target="_blank" rel="noopener">Link</a></li>
+</ul>
