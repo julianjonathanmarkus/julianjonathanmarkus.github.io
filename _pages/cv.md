@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV here: [Download CV (PDF)](/cv)
+You can download my CV here: [Download CV (PDF)](files/08.09.25_ Julian_Jonathan_Markus.pdf)  
 
 
 
