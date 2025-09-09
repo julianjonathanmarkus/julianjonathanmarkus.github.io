@@ -8,26 +8,14 @@ redirect_from:
 ---
 
 Hello!
+Welcome to my personal website. My name is JJ, it's nice to e-meet you!
 
-Welcome to my personal page. My name is JJ.
+I am a Ph.D. candidate in Organizational Design and Behavior at WU Vienna University of Economics and Business. My research focuses on the intersection of organizational design, ways of working, and employee behavior. I am especially interested in how people can prosper at work and how organizations can align human flourishing with organizational success.
 
-I have been working as a Ph.D. candidate at the WU Vienna University of Economics and Business (IIB) since September 2022.
+The central question that motivates my research is how we can improve organizations for the sake of employees and, consequently, drive organizational success. One stream of my research examines organizational decentralization, exploring how authority is redistributed, how decisions are made outside traditional hierarchies, and how individuals experience autonomy and responsibility. A second stream focuses on the implications of organizational design choices, such as levels of hierarchy, and how these choices affect both human and organizational outcomes.
 
-My research focuses on the intersection between ways of working, organization designs, and behavior. This focus stems from interests in questions revolving around people prospering at work and its relationships to organizational success. In my work, I aim for the highest standards in publishing while developing research with substantial practical impact. Currently, I am focusing on people management within decentralized organizations.
+I am passionate about ensuring that research generates not only academic contributions but also practical impact. As co-founder of[People & self-managing organizations-PASMO](https://www.rsm.nl/faculty-research/pasmo/) and a team member of [Headquarters in Austria-HiA](https://www.wu.ac.at/en/hia-home/hia-project), I work closely with organizations and practitioners to co-create knowledge and develop insights that support new ways of working. I also teach courses on organizational design and consultancy at the bachelor’s and master’s levels, equipping future leaders with the tools to design more effective and humane workplaces.
 
-Besides conducting research, I have roles in two collective research initiatives: People and Self-Managing Organization (PASMO), co-founder. PASMO is a collective research project, organized through the Rotterdam School of Management, focusing on self-managing organizations (SMO) and the life of people working for SMOs. Headquarters in Austria (HiA), team-member. HiA is an “umbrella project” for various projects and activities, all of which have the goal of supporting companies in designing their organizations and especially their headquarters, as well as contributing to Austria remaining an attractive location for headquarters. Furthermore, I teach courses on organizational design and consultancy at both bachelor and master's levels.
-
-Take a look at the projects here:
-
-[People & self-managing organizations-PASMO](https://www.rsm.nl/faculty-research/pasmo/)
-
-[Headquarters in Austria-HiA](https://www.wu.ac.at/en/hia-home/hia-project)
-
-Before my Ph.D., I studied International Management and International Business at Avans UAS in Breda and NEOMA Business School in Reims through the IPBS International Double Degree. These studies were complemented by international internships and work experience in the Netherlands, Malta, Bulgaria, France, and Belgium. In 2022, I finished a two-year Master of Science program in Human Resource Management at the Rotterdam School of Management, where I graduated with distinction and was awarded the HRM thesis of the year award.
-
-Through various student jobs and internships, I have accumulated ten years of work experience in diverse capacities (e.g., HRM, B2C Sales). I have experienced organizations, management, and colleagues that allowed me to prosper and ones that beat me down. I am convinced of the value of the former, and therefore I study how we can create organizations with a focus on people.
-
-
-
+Previously, I was a visiting researcher at the Rotterdam School of Management and INSEAD, and I worked as a research assistant at the Rotterdam School of Management, where I also earned my Master of Science in Human Resource Management, graduating with distinction and receiving the HRM Thesis of the Year Award in 2022. Prior to my academic career, I completed the International Management double degree at Avans University of Applied Sciences and NEOMA Business School in Reims. From 2011 to 2020, I worked in industry in roles ranging from frontline employee to middle manager and HR specialist, gaining international experience in the Netherlands, Malta, Bulgaria, France, and Belgium.
 
 For all other web and media, see: [Julian Jonathan Markus](https://linktr.ee/julian_jonathan_markus)
