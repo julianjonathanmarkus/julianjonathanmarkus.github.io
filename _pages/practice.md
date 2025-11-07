@@ -5,6 +5,20 @@ permalink: /practice/
 author_profile: true
 ---
 
+**Research Projects**
+
+Hewett, R., & Markus, J.J. (since 2022). [*People and Self-Managing Organizations (PASMO)*](https://www.rsm.nl/faculty-research/pasmo/)  
+Research initiative, Rotterdam School of Management (RSM), Rotterdam, Netherlands.  
+Collaborators: Cai, M., Fedeles, L., Agnihotri, M., Meier-Barthold, M.  
+Advisory board: Verhoeff, A., Janse, D.  
+Funding: Erasmus Institute of Management (ERIM), Erasmus Trustfonds, and the Dutch Research Council (NWO).
+
+Nell, P.C., Sehner, M., Schmitt, J., Cerar, J., Markus, J.J., Fabrizi, C., & Zhang, Y. (since 2020). [*Headquarters in Austria (HiA)*](https://www.wu.ac.at/en/hia-home/hia-project)  
+Research initiative, WU Vienna University of Economics and Business, Vienna, Austria.  
+Funding: the OeNB Anniversary Fund, B&C Stiftung, and eXplore!.
+
+---
+
 **Invited Presentations and Talks**
 
 Markus, J.J., Hewett, R., Leroy, H., Gangé, M., & Van den Broeck, A. (2025): “Independence and Volition: Understanding and Managing the Negative Consequences of Autonomy at Work”. Invited presentation at Inductive Brownbag Sessions, INSEAD, Fontainebleau, France
