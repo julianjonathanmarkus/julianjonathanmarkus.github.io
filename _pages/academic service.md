@@ -5,7 +5,7 @@ permalink: /academic-service/
 author_profile: true
 ---
 
-**Community and Conference Work **
+**Community and Conference Work**
 
 Markus, J.J., Dwyer, S., Hewett, R., He, V.F., Lee, M.Y., Martela, F., Snellman, K.E., & Young-Hyman, T.D. (2025): “Decentralizing Organizations: Theory, Ideation, and Future Development”. Panel Symposium, Academy of Management Annual Meeting 2025, Copenhagen, Denmark
 
