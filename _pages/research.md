@@ -13,6 +13,8 @@ Under review: International Journal of Management Reviews
 Lam. H. W., Ren. D., Darouei. M. Markus, J.J.: “Cold but Competent: The Paradoxical Effects of Solitude Expression on Social Evaluation at Work”.
 Under review: Personnel Psychology
 
+---
+
 **Publications: Working Papers**
 
 Markus, J.J., Nell, P.C.: “Designing Radically Decentralized Organizations”.
@@ -41,6 +43,8 @@ Research design.
 
 Merten, S., Bouwens, A., Markus, J.J., Hewett, R.: “Feedback Cultures in Decentralized Organizations”.
 Research design. 
+
+---
 
 **Publications: Book Chapters & Conference Proceedings**
 
