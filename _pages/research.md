@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Publications: Papers Under Revision**
+
 Markus, J.J., Hewett, R., Leroy, H., Gangé, M., Van de Broeck, A.: “Negative Consequences of Worker Autonomy”.
 Under review: International Journal of Management Reviews
 
@@ -13,6 +14,7 @@ Lam. H. W., Ren. D., Darouei. M. Markus, J.J.: “Cold but Competent: The Parado
 Under review: Personnel Psychology
 
 **Publications: Working Papers**
+
 Markus, J.J., Nell, P.C.: “Designing Radically Decentralized Organizations”.
 Preparing for submission. Target: Strategic Management Journal
 
@@ -41,6 +43,7 @@ Merten, S., Bouwens, A., Markus, J.J., Hewett, R.: “Feedback Cultures in Decen
 Research design. 
 
 **Publications: Book Chapters & Conference Proceedings**
+
 Markus, J.J., & Nell, P.C. (2025): “Designing Radically Decentralized Organizations”. Poster presentation, Academy of Management Annual Meeting 2025, Copenhagen, Denmark
 
 Markus, J.J., Hewett, R., Leroy, H., Gangé, M., & Van den Broeck, A. (2025): “Independence and Volition: Understanding and Managing the Negative Consequences of Autonomy at Work”. Poster presentation, Academy of Management Annual Meeting 2025, Copenhagen, Denmark
