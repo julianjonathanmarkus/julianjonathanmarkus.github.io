@@ -4,15 +4,9 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Program overview
-Write a short paragraph about your agenda and core questions.
 
-## Streams
-### Self-managing organizations (multi-case)
-One-line description, methods, status, target journal.
+## Publications: Current Work-in-Progress for Peer-Reviewed Journals
+...
 
-### Decentralization & feedback loops (experiments)
+## Publications: Other
 Short description, hypotheses, design.
-
-### Purpose & evaluation (lab/field)
-Context, early findings, planned submissions.
