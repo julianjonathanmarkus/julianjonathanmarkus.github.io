@@ -5,17 +5,18 @@ permalink: /practice/
 author_profile: true
 ---
 
-**Invited Presentations and Talks
-**
+**Invited Presentations and Talks**
+
 Markus, J.J., Hewett, R., Leroy, H., Gangé, M., & Van den Broeck, A. (2025): “Independence and Volition: Understanding and Managing the Negative Consequences of Autonomy at Work”. Invited presentation at Inductive Brownbag Sessions, INSEAD, Fontainebleau, France
 
 Markus, J.J. (2025): “Organizational Design Theory for Consultants”. Invited presentation and workshop at Verandert Gewoon, Den Bosch, Netherlands
 
 Markus, J.J. & Mertens. S. (2025): “Feedback in a Decentralized Firm”. Invited presentation and workshop at an anonymous corporate partner, London, UK
 
+---
 
-**Practice Output
-**
+**Practice Output**
+
 Hewett, R., Markus, J.J., Janse, D., & Verhoef, A. (2024). [*Stories of High Involvement*](https://www.rsm.nl/fileadmin/About_RSM/Discovery/Documents/Stories_of_high_involvement_-_white_paper__Nov_2024_.pdf).  
 White paper – Rotterdam School of Management.
 
@@ -27,8 +28,8 @@ White paper – WU Vienna.
 
 ---
 
-**Media Coverage
-**
+**Media Coverage**
+
 Markus, J.J. (2025). [*Transactional or Transformational Leadership: What Works Best for Self-Managed Teams?*](https://www.talkspirit.com/blog/transactional-or-transformational-leadership).  
 *Talkspirit Blog*, 25 June 2025.
 
@@ -41,8 +42,10 @@ Markus, J.J. (2024). [*How Do You Give Constructive Feedback to Your Peers in a 
 Markus, J.J. (2024). [*What Makes Self-Managed Teams Unique?*](https://www.talkspirit.com/blog/what-makes-self-managed-teams-unique).  
 *Talkspirit Blog*, 18 July 2024.
 
-**Awards
-**
+---
+
+**Awards**
+
 EAWOP 2021 Best Paper Finalist – European Association of Work and Organizational Psychology
 For the project: Lam. H.W., Ren. D., Darouei. M., Markus, J.J. (2023): “Cold but competent: The paradoxical effects of solitude expression on social reputation at work”. 
 
@@ -52,8 +55,8 @@ For the project: Lam. H.W., Ren. D., Darouei. M., Markus, J.J. (2023): “Cold b
 HRM Thesis Award - Rotterdam School of Management
 For the thesis: Markus, J.J. (2022): “Me time: Leadership Perception Through the Social Evaluation of Solitude Preference”.
 
-**Projects, Grants, & Scholarships
-**
+**Projects, Grants, & Scholarships**
+
 | Year | Project / Grant Description | Amount |
 |------|-----------------------------|---------|
 | 2024 | WU International Research Fellow (IRF) project grant for Research Visit INSEAD Fontainebleau | €1,900 |
