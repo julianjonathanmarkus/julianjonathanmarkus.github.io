@@ -21,12 +21,13 @@ Markus, J.J., Hewett, R., Lee, M.Y., Martela, F. (2023): “The Employees of Sel
 
 Hewett, R., Cai, M., Markus, J.J., Fedeles, L., Agnihotri, M., Meier-Barthold, M., & Mehta, C. (2023): “Self-Management in Organizations”. Practitioner event, PASMO Amsterdam, The Netherlands
 
-**Academic Reviewing and Community Contributions**
+**Academic Reviewing**
+
 •	Ad hoc reviewing Journal of Management Studies (JMS)
 
 •	Reviewer Management Society Conference 2025
 
-•	Reviewer Academy of Management Annual Meeting 2023, 2024 & 2025
+•	Reviewer Academy of Management Annual Meeting 2023, 2024, & 2025
 
 •	Strategic Management Society Conference volunteer 2024
 
