@@ -1,23 +1,18 @@
 ---
-layout: single
+layout: single   # you can use 'archive' too; 'single' is fine given your defaults
 title: "Research"
 permalink: /research/
 author_profile: true
-toc: true
 ---
 ## Program overview
-One paragraph that frames your agenda and core questions.
+Write a short paragraph about your agenda and core questions.
 
 ## Streams
-### S1. Self-managing organizations (multi-case)
-What it studies, methods, key insights, working paper status, target journal.
+### Self-managing organizations (multi-case)
+One-line description, methods, status, target journal.
 
-### S2. Decentralization & feedback loops (experiments)
-Brief description + hypotheses and design in progress.
+### Decentralization & feedback loops (experiments)
+Short description, hypotheses, design.
 
-### S3. Purpose & evaluation (lab/field)
-Context, data, early findings, planned submissions.
-
-## Selected outputs
-- “Title of paper or WIP” (year). *Venue/target*. [PDF](/files/papers/title.pdf) | [OSF](#)
-
+### Purpose & evaluation (lab/field)
+Context, early findings, planned submissions.
