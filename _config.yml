@@ -8,7 +8,7 @@ name                     : &name "JJ"
 description              : &description "PhD researcher at WU Vienna"
 
 # 👇 Core settings for your site
-url                      : "https://julianjonathanmarkus.github.io" # Your GitHub Pages URL
+url                      : "https://www.julianjonathanmarkus.com" # Your GitHub Pages URL
 baseurl                  : "" # leave blank since it's at root
 repository               : "julianjonathanmarkus/julianjonathanmarkus.github.io" # format: username/repo
 
