@@ -10,6 +10,9 @@ author_profile: true
 Markus, J.J., Hewett, R., Leroy, H., Gangé, M., Van de Broeck, A.: “Negative Consequences of Worker Autonomy”.
 Under review: International Journal of Management Reviews
 
+Minnaar, J., Markus, J.J.; “Market, equality, community: A relational models view on self-managing organizations”
+2nd R&R: Journal of Organization Design
+
 Lam. H. W., Ren. D., Darouei. M. Markus, J.J.: “Cold but Competent: The Paradoxical Effects of Solitude Expression on Social Evaluation at Work”.
 Under review: Personnel Psychology
 
@@ -34,6 +37,9 @@ Manuscript development. Target: Journal of Management Studies
 
 Markus, J.J., Hastings, B.J.: “Crafting Research Impact”
 Manuscript development. Target: Journal of Management Studies Says
+
+Minnaar, J., Markus, J.J.; “Unlearning hierarchy: a relational dynamics view to the distribution of authority”
+Manuscript development. Target: Administrative Science Quarterly
 
 Markus, J.J., Lee, M. Y., Hewett, R.: “Socializing into Self-Management”.
 Research design.
