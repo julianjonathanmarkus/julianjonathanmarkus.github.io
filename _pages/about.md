@@ -17,13 +17,6 @@ My work sits at the intersection of **organizational design**, **ways of working
 
 ---
 
-**Start here:**
-- **My research themes:** decentralization, autonomy, self-management, feedback, leadership
-- **Practice-facing work:** PASMO, HiA, workshops, practitioner-oriented writing
-- **Teaching:** organizational design and consultancy
-
----
-
 ## What I do (in one sentence)
 I study **how organizational structures shape human behaviour at work**, and how we can design organizations that are both **more humane** and **more effective**.
 
@@ -56,11 +49,11 @@ If you are an organization experimenting with decentralization or self-managemen
 ---
 
 ## Teaching
-I teach courses on **organizational design** and **consultancy** at the bachelor’s and master’s levels, aiming to equip future leaders with tools to design more effective and humane workplaces.
+I teach courses on **organizational design** and **organizational behavior** at the bachelor’s and master’s levels, aiming to equip future leaders with tools to design more effective and humane workplaces.
 
 ---
 
-## Background (short version)
+## Background 
 Previously, I was a visiting researcher at **Rotterdam School of Management** and **INSEAD**. I also worked as a research assistant at Rotterdam School of Management, where I earned the **MSc in Human Resource Management** (graduating with distinction) and received the **HRM Thesis of the Year Award (2022)**.
 
 Before academia, I completed the International Management double degree at **Avans University of Applied Sciences** and **NEOMA Business School** (Reims). From **2011 to 2020**, I worked in industry in roles ranging from frontline employee to middle manager and HR specialist, gaining international experience in the **Netherlands, Malta, Bulgaria, France, and Belgium**.
