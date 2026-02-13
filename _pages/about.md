@@ -8,17 +8,13 @@ redirect_from:
 ---
 
 ## Hello — welcome 👋
-I’m **Julian Jonathan (JJ) Markus**, a Ph.D. candidate in **Organizational Design and Behavior** at **WU Vienna University of Economics and Business**.  
-My work sits at the intersection of **organizational design**, **ways of working**, and **employee behavior** — with a clear aim: **how people can prosper at work, and how organizations can align human flourishing with organizational success**. The key phenomenon I focus on is **The Managerial Hierarchy**.
+I’m **Julian Jonathan (JJ) Markus**, a Ph.D. candidate in  at **WU Vienna University of Economics and Business**.  
+
+My research sits at the intersection of **organizational design** and **Organizational behavior** — with a clear aim: **how people can prosper at work, and how organizations can align human flourishing with organizational success**. The key phenomenon I focus on is **The Managerial Hierarchy**.
 
 ---
 
 <img src="{{ '/assets/images/jj-hero.jpg' | relative_url }}" alt="JJ Markus" style="width:100%; max-width:900px; border-radius:16px; margin: 10px 0 20px 0;" />
-
----
-
-## What I do (in one sentence)
-I study **how organizational designs shape human behaviour at work**, and how we can design organizations that are both **more humane** and **more effective**.
 
 ---
 
@@ -44,7 +40,7 @@ Beyond my doctoral research, I am involved in a range of projects focused on pro
 ## Practice impact & partnerships
 I am passionate about ensuring that research generates not only academic contributions but also practical impact. As co-founder of **[People & Self-Managing Organizations (PASMO)](https://www.rsm.nl/faculty-research/pasmo/)** and a team member of **[Headquarters in Austria (HiA)](https://www.wu.ac.at/en/hia-home/hia-project)**, I work closely with organizations and practitioners to co-create knowledge and develop insights that support new ways of working.
 
-If you are an organization experimenting with decentralization or self-management, feel free to reach out — I’m always interested in connecting research with real design challenges.
+If you are an organization experimenting with decentralization, self-management or related topics, feel free to reach out — I’m always interested in connecting research with real design challenges.
 
 ---
 
