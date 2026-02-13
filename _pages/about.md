@@ -9,7 +9,7 @@ redirect_from:
 
 ## Hello — welcome 👋
 I’m **Julian Jonathan (JJ) Markus**, a Ph.D. candidate in **Organizational Design and Behavior** at **WU Vienna University of Economics and Business**.  
-My work sits at the intersection of **organizational design**, **ways of working**, and **employee behavior** — with a clear aim: **how people can prosper at work, and how organizations can align human flourishing with organizational success**.
+My work sits at the intersection of **organizational design**, **ways of working**, and **employee behavior** — with a clear aim: **how people can prosper at work, and how organizations can align human flourishing with organizational success**. The key phenomenon I focus on is **The Managerial Hierarchy**.
 
 ---
 
@@ -18,12 +18,12 @@ My work sits at the intersection of **organizational design**, **ways of working
 ---
 
 ## What I do (in one sentence)
-I study **how organizational structures shape human behaviour at work**, and how we can design organizations that are both **more humane** and **more effective**.
+I study **how organizational designs shape human behaviour at work**, and how we can design organizations that are both **more humane** and **more effective**.
 
 ---
 
-## My PhD in four streams
-My doctoral research asks how the **decentralization of organizational structures** impacts workers. Specifically, I focus on:
+## My doctoral thesis 
+My doctoral research asks how the **managerial hierarchy can be distributed** and **what the implications are for workers**.
 
 1. **Negative outcomes of high worker autonomy**  
 2. **Founder ideologies for self-management**  
