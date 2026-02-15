@@ -2,9 +2,6 @@
 permalink: /about/
 title: "JJ Markus"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 ## Hello — welcome 👋
