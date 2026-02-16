@@ -11,7 +11,7 @@ classes: wide
   <h1>Julian Jonathan Markus</h1>
 
   <p style="font-size:18px; margin-top:0;">
-    Organizations • Managerial Hierarchy • People • Impact
+    Organizations • Managerial Hierarchy • People Management • Impact
   </p>
 
   <img src="{{ '/images/index.md_image.jpg' | relative_url }}"
