@@ -1,13 +1,11 @@
 ---
 permalink: /about/
-title: "JJ Markus"
+title: ""
 author_profile: true
 ---
 
-## Hello — welcome 👋
-I’m **Julian Jonathan (JJ) Markus**, a Ph.D. candidate in  at **WU Vienna University of Economics and Business**.  
-
-My research sits at the intersection of **organizational design** and **Organizational behavior** — with a clear aim: **how people can prosper at work, and how organizations can align human flourishing with organizational success**. The key phenomenon I focus on is **The Managerial Hierarchy**.
+## Hello — welcome 
+I’m **Julian Jonathan (JJ) Markus**, a Ph.D. candidate at **WU Vienna University of Economics and Business**. I am someone who has been lucky enough to have found a way of combining my biggest passions and interests into a career. Formally, I am an researcher, educator, and public speaker in the domain of organizational design and human behavior. Practically this translates to me spending my days talking to people, reading, thinking, writing, and teaching. 
 
 ---
 
@@ -15,22 +13,30 @@ My research sits at the intersection of **organizational design** and **Organiza
 
 ---
 
-## My doctoral thesis 
-My doctoral research asks how the **managerial hierarchy can be distributed** and **what the implications are for workers**.
+## Motivation of work
+The central question that motivates my work is: how we can improve organizations for the sake of employees and, consequently, drive organizational success.
 
-1. **Negative outcomes of high worker autonomy**  
-2. **Founder ideologies for self-management**  
-3. **Strategic exploration and exploitation by workers in self-managing organizations**  
-4. **The relationship between performance management and hierarchies**
+Theoretically, I study problems through lenses of organizational design and organizational behavior at the organizational, group, and individual levels. My  portfolio revolves primarily around the phenomenon of the managerial hierarchy studying how the organizations we create shape the behavior of people within them — and vice versa.
+
+Beyond my core research, I am involved in a range of projects focused on problems for workers in organizations, studying decentralization, feedback, leadership, and research impact.
 
 ---
 
-## Research approach
-The central question that motivates my research is how we can improve organizations for the sake of employees and, consequently, drive organizational success.
+## My doctoral thesis 
+My doctoral research asks how the managerial hierarchy can be distributed and what the implications are for workers.
 
-Theoretically, I study these problems through lenses of **organizational design** and **organizational behavior** at the **organizational, group, and individual levels**. My research portfolio revolves around the relationship between organizational design and behavior: how the organizations we create shape the behavior of people within them — and vice versa.
+Committee: Phillip C. Nell, Christopher Lettl, Rebecca Hewett
 
-Beyond my doctoral research, I am involved in a range of projects focused on problems for workers in organizations, studying **decentralization, feedback, leadership, and research impact**.
+Title: Distributing Managerial Hierarchy: Exploring Drivers, Mechanisms, and Consequences of Self-Managed Organizational Designs
+
+Projects:
+1. Negative outcomes of high worker autonomy  
+2. Founder ideologies for self-management
+3. Strategic exploration and exploitation by workers in self-managing organizations  
+4. The relationship between performance management and hierarchies
+
+Status: 
+The thesis proposal is currently being reviewed and will be made available in due course.
 
 ---
 
