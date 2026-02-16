@@ -4,13 +4,19 @@ title: ""
 layout: single
 author_profile: false
 classes: wide
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.15"
-  overlay_image: /assets/images/hero-jj.jpg
-  caption: ""
 ---
 
-# Julian Jonathan (JJ) Markus
-Managerial Hierarchy • Organizational Design • Decentralization
+<div style="text-align:center; max-width:900px; margin: 0 auto; padding-top: 12vh;">
+
+  <h1>Julian Jonathan (JJ) Markus</h1>
+
+  <p style="font-size:18px; margin-top:0;">
+    Managerial Hierarchy • Organizational Design • Decentralization
+  </p>
+
+  <img src="{{ '/assets/images/index.md_image.jpg' | relative_url }}"
+       alt="JJ Markus"
+       style="width:100%; max-width:820px; border-radius:18px; margin-top:24px;" />
+
+</div>
 
