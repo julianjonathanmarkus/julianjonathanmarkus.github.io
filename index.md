@@ -14,7 +14,7 @@ classes: wide
     Managerial Hierarchy • Organizational Design • Decentralization
   </p>
 
-  <img src="{{ '/assets/images/index.md_image.jpg' | relative_url }}"
+  <img src="{{ '/images/index.md_image.jpg' | relative_url }}"
        alt="JJ Markus"
        style="width:100%; max-width:820px; border-radius:18px; margin-top:24px;" />
 
