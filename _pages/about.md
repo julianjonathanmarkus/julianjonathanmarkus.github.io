@@ -55,15 +55,8 @@ I teach courses on **organizational design** and **organizational behavior** at 
 ## Background 
 Previously, I was a visiting researcher at **Rotterdam School of Management** and **INSEAD**. I also worked as a research assistant at Rotterdam School of Management, where I earned the **MSc in Human Resource Management** (graduating with distinction) and received the **HRM Thesis of the Year Award (2022)**.
 
-Before academia, I completed the International Management double degree at **Avans University of Applied Sciences** and **NEOMA Business School** (Reims). From **2011 to 2020**, I worked in industry in roles ranging from frontline employee to middle manager and HR specialist, gaining international experience in the **Netherlands, Malta, Bulgaria, France, and Belgium**.
+Before academia, I completed the International Management double degree at Avans UAS and NEOMA Business School (Reims). From 2011 to 2020 I worked in industry in roles ranging from frontline employee to middle manager and HR specialist, gaining international experience in the Netherlands, Malta, Bulgaria, France, and Belgium
 
 ---
 
-## Links
-For all other web and media, see: **[Julian Jonathan Markus](https://linktr.ee/julian_jonathan_markus)**
-
-If you’d like the fastest way to navigate this site, I recommend starting with:
-- a projects/publications page (research outputs)
-- a practice page (workshops, whitepapers, blogs)
-- a contact page (one-click email + links)
 
