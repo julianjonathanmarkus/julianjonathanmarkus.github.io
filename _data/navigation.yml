@@ -22,5 +22,8 @@ main:
     url: /practice/
   - title: "CV"
     url: /cv/
+  - title: "Contact"
+    url: /contact/
+
   
 
