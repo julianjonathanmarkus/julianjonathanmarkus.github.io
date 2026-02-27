@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<img src="{{ '/images/teaching_image.jpg' | relative_url }}" alt="JJ Markus" style="width:100%; max-width:900px; border-radius:16px; margin: 10px 0 20px 0;" />
+
 **WU Vienna University of Economics and Business, Austria — BSc, MSc (CEMS program)**
 
 Since 2024  
