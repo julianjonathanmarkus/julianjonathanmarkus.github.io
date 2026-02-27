@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+<img src="{{ '/images/cv_image.jpg' | relative_url }}" alt="JJ Markus" style="width:100%; max-width:900px; border-radius:16px; margin: 10px 0 20px 0;" />
+
+
 <a href="{{ '/files/cv_jjm.pdf' | relative_url }}" class="btn btn--primary" target="_blank" rel="noopener">
   Download CV (PDF)
 </a>
