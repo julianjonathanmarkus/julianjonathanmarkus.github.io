@@ -27,7 +27,7 @@ My doctoral research asks how the managerial hierarchy can be distributed and wh
 
 Committee: Phillip C. Nell, Christopher Lettl, Rebecca Hewett
 
-Title: Distributing Managerial Hierarchy: Exploring Drivers, Mechanisms, and Consequences of Self-Managed Organizational Designs
+(working) Title: Distributing Managerial Hierarchy: Exploring Drivers, Mechanisms, and Consequences of Self-Managed Organizational Designs
 
 Projects:
 1. Negative outcomes of high worker autonomy  
@@ -48,7 +48,7 @@ If you are an organization experimenting with decentralization, self-management 
 ---
 
 ## Teaching
-I teach courses on **organizational design** and **organizational behavior** at the bachelor’s and master’s levels, aiming to equip future leaders with tools to design more effective and humane workplaces.
+I teach courses on organizational design and organizational behavior at the bachelor’s and master’s levels, aiming to equip future leaders with tools to design more effective and humane workplaces.
 
 ---
 
