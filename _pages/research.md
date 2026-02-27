@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+<img src="{{ '/images/research_image.jpg' | relative_url }}" alt="JJ Markus" style="width:100%; max-width:900px; border-radius:16px; margin: 10px 0 20px 0;" />
+
 **Publications: Papers Under Revision**
 
 Markus, J.J., Hewett, R., Leroy, H., Gangé, M., Van de Broeck, A.: “Negative Consequences of Worker Autonomy”.
