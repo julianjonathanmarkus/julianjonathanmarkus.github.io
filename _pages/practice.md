@@ -5,6 +5,8 @@ permalink: /practice/
 author_profile: true
 ---
 
+<img src="{{ '/images/practice_image.jpg' | relative_url }}" alt="JJ Markus" style="width:100%; max-width:900px; border-radius:16px; margin: 10px 0 20px 0;" />
+
 **Research Projects**
 
 Hewett, R., & Markus, J.J. (since 2022). [*People and Self-Managing Organizations (PASMO)*](https://www.rsm.nl/faculty-research/pasmo/)  
