@@ -23,14 +23,15 @@ author:
   uri              :
   email            : "julian.jonathan.markus@wu.ac.at"
 
+   # Social media
+  linkedin         : "https://www.linkedin.com/in/julian-jonathan-markus"
+  
   # Academic websites
   googlescholar    : "https://scholar.google.at/citations?hl=en&user=UE7JKPIAAAAJ"
+  WU PURE          : "https://research.wu.ac.at/en/persons/jj-julian-jonathan-markus"
   orcid            : "https://orcid.org/0000-0002-4877-2582"
   researchgate     : "https://www.researchgate.net/profile/Julian-Markus-3?ev=hdr_xprf"
-  WU PURE          : "https://research.wu.ac.at/en/persons/jj-julian-jonathan-markus"
 
-  # Social media
-  linkedin         : "https://www.linkedin.com/in/julian-jonathan-markus"
 
 # Publication Categories
 publication_category:
