@@ -7,6 +7,9 @@ author_profile: true
 
 **Community and Conference Work**
 
+<img src="{{ '/images/academic_service_image.jpg' | relative_url }}" alt="JJ Markus" style="width:100%; max-width:900px; border-radius:16px; margin: 10px 0 20px 0;" />
+
+
 Markus, J.J., Dwyer, S., Hewett, R., He, V.F., Lee, M.Y., Martela, F., Snellman, K.E., & Young-Hyman, T.D. (2025): “Decentralizing Organizations: Theory, Ideation, and Future Development”. Panel Symposium, Academy of Management Annual Meeting 2025, Copenhagen, Denmark
 
 Markus, J.J., Hastings, B.J., Rousseau, D.M., Klein, J., Summers, C., Ipek, E., Osias, D. (2025): “Impactful Early Career Research: Learning ‘How’ to Create Impact”. PDW, Academy of Management Annual Meeting 2025, Copenhagen, Denmark
