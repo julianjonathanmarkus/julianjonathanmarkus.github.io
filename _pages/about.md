@@ -9,7 +9,7 @@ I’m **Julian Jonathan (JJ) Markus**, a Ph.D. candidate at **WU Vienna Universi
 
 ---
 
-<img src="{{ '/assets/images/jj-hero.jpg' | relative_url }}" alt="JJ Markus" style="width:100%; max-width:900px; border-radius:16px; margin: 10px 0 20px 0;" />
+<img src="{{ '/images/index.md_image.jpg' | relative_url }}" alt="JJ Markus" style="width:100%; max-width:900px; border-radius:16px; margin: 10px 0 20px 0;" />
 
 ---
 
