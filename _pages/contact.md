@@ -5,7 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-# Contact
 
 <img src="{{ '/images/contact_image.jpg' | relative_url }}" alt="JJ Markus" style="width:100%; max-width:900px; border-radius:16px; margin: 10px 0 20px 0;" />
 
