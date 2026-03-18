@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Academic Service"
-permalink: /academic-service/
+title: "Contact"
+permalink: /contact/
 author_profile: true
 ---
 
