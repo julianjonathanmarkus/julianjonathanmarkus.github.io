@@ -22,7 +22,7 @@ Private E-mail: **jjmarkus.research@hotmail.com**
 
 ## Send a message
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" style="max-width:720px;">
+<form action="https://formspree.io/f/myknlzjo" method="POST" style="max-width:720px;">
   <label>Your name<br>
     <input type="text" name="name" required style="width:100%; padding:10px; margin:6px 0 14px 0;">
   </label>
@@ -39,5 +39,8 @@ Private E-mail: **jjmarkus.research@hotmail.com**
 </form>
 
 <p style="margin-top:14px;">
-  Prefer email? <a href="mailto:your.email@domain.com">Click here</a>.
+  Prefer email? 
+  <a href="mailto:julian.jonathan.markus@wu.ac.at">
+    julian.jonathan.markus@wu.ac.at
+  </a>
 </p>
