@@ -1,13 +1,8 @@
 ---
-permalink: /contact/
-title: "Contact"
 layout: single
-author_profile: false
-classes: wide
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.15"
-  overlay_image: /images/index.md_image.jpg
+title: "Academic Service"
+permalink: /academic-service/
+author_profile: true
 ---
 
 # Contact
