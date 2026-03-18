@@ -5,16 +5,20 @@ permalink: /academic-service/
 author_profile: true
 ---
 
-**Community and Conference Work**
-
 <img src="{{ '/images/academic_service_image.jpg' | relative_url }}" alt="JJ Markus" style="width:100%; max-width:900px; border-radius:16px; margin: 10px 0 20px 0;" />
 
+
+**Community and Conference Work**
+
+Markus, J.J., Salamon, K., Miedtank, T., Heucher, K., Chen, S., & Wierenga., M. (2026): “Micro-level Impact: How to Generate Early-Career Impact”. PDW, GRONEN  2026, Barcelona, Spain
+
+He, V.F., Hsieh, Y.-Y., Lee, M.Y., Puranam, P., Markus, J.J., & Sampò, G.  (2026): DiO 2026: Decentralization in Organizations Conference. Conference organization, INSEAD, Fontainebleau, France
 
 Markus, J.J., Dwyer, S., Hewett, R., He, V.F., Lee, M.Y., Martela, F., Snellman, K.E., & Young-Hyman, T.D. (2025): “Decentralizing Organizations: Theory, Ideation, and Future Development”. Panel Symposium, Academy of Management Annual Meeting 2025, Copenhagen, Denmark
 
 Markus, J.J., Hastings, B.J., Rousseau, D.M., Klein, J., Summers, C., Ipek, E., Osias, D. (2025): “Impactful Early Career Research: Learning ‘How’ to Create Impact”. PDW, Academy of Management Annual Meeting 2025, Copenhagen, Denmark
 
-He, V.F., Hsieh, Y.-Y., Lee, M.Y., & Puranam, P., Markus, J.J., Gulati, P., Sampò, G.,  (2025): DiO 2025: Decentralization in Organizations Conference. Conference organization, INSEAD, Fontainebleau, France
+He, V.F., Hsieh, Y.-Y., Lee, M.Y., Puranam, P., Markus, J.J., Gulati, P., & Sampò, G.  (2025): DiO 2025: Decentralization in Organizations Conference. Conference organization, INSEAD, Fontainebleau, France
 
 Markus, J.J., Hewett, R., Griffin, M., Lee, M.Y., Martela, F., Massa, F., Pek, S., & Young-Hyman, T.D. (2024): “Self-Organizing and Decentralizing Work: Enabling Factors, Boundary Conditions and Opportunities”. Symposium, Academy of Management Annual Meeting 2024, Chicago, USA
 
