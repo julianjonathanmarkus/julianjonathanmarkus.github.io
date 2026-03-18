@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Last updated: March 2026
 
 <a href="{{ '/files/cv_jjm.pdf' | relative_url }}" class="btn btn--primary" target="_blank" rel="noopener">
   Download CV (PDF)
