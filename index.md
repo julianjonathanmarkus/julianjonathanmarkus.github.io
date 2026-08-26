@@ -11,7 +11,7 @@ classes: wide
   <h1>Julian Jonathan Markus</h1>
 
   <p style="font-size:18px; margin-top:0;">
-    Self-Managing Organizations • Organizational Design • People Management • Impact
+    Autonomy •  Organizational Design • People Management • Self-Managing Organizations •Impact
   </p>
 
   <img src="{{ '/images/index.md_image.jpg' | relative_url }}"
